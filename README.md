@@ -10,4 +10,4 @@ Contract address: 0xC5cbEbB0a2A15303E257B545A2Ba9877BEfeaA94
 Demonstrate how a basic smart contract can increase speed and efficiency of paying employees with equal salaries.
 
 ## Demonstration
-![alt-text](smrtContract.gif)
+![alt-text](https://github.com/AndreasC93/profitsplitter-smrtContract/blob/main/Resources/smrtContract.gif)
